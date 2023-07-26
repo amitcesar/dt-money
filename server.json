@@ -1,0 +1,38 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2023-07-25T22:56:39.244Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-07-25T22:55:40.404Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel do apartamento",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1200,
+      "createdAt": "2023-07-25T22:59:49.459Z"
+    },
+    {
+      "id": 4,
+      "description": "PC Home Office",
+      "type": "income",
+      "category": "Venda",
+      "price": 5400,
+      "createdAt": "2023-07-26T00:54:36.238Z"
+    }
+  ]
+}
+
+
