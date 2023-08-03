@@ -27,10 +27,10 @@ export function Summary() {
 
       <SummaryCard variant="green">
         <header>
-          <span>Entradas</span>
+          <span>Total</span>
           <CurrencyDollar size={32} color={"#fff"} />
         </header>
-        <strong>{formatMoney.format(summary.outcome)}</strong>
+        <strong>{formatMoney.format(summary.total)}</strong>
       </SummaryCard>
     </SummaryContainer>
   );
